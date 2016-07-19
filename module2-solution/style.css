@@ -11,7 +11,7 @@ body {
 }
 .item{
     border-style: solid;
-    border-width: 2px;
+    border-width: 1px;
     border-color: #000;
     margin: 8px;
     background-color: #aaa;
@@ -24,7 +24,7 @@ body {
     top: 0px;
     float: right;
     border-style: solid;
-    border-width: 0px 0px 2px 2px;
+    border-width: 0px 0px 1px 1px;
     border-color: #000;
     padding: 2px 16px 2px 16px;
     text-align: center;
